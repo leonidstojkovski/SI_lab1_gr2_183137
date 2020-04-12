@@ -46,3 +46,11 @@ class Student {
 
 	}
 }
+
+class Faculty{
+
+List<Student> student = new ArrayList<Student>;
+String facultyName;
+
+
+}
